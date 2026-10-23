@@ -1,0 +1,95 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About",
+    "section": "",
+    "text": "This website presents interactive disease notification-rate maps by Australian local government area.\nThe maps allow users to zoom, pan, and inspect notification-rate information for individual LGAs."
+  },
+  {
+    "objectID": "index.html#data-interpretation",
+    "href": "index.html#data-interpretation",
+    "title": "About",
+    "section": "Data interpretation",
+    "text": "Data interpretation\nNotification rates are presented per 100,000 population. Rates based on small notification counts should be interpreted with appropriate caution.\nLGAs shown in grey do not have an available notification rate."
+  },
+  {
+    "objectID": "rsv.html",
+    "href": "rsv.html",
+    "title": "Respiratory Syncytial Virus",
+    "section": "",
+    "text": "Use the mouse, trackpad, or map controls to zoom and pan. Hover over an LGA to view its notification count, population, and notification rate.\n\n\nLGAs shown in grey do not have an available notification rate.1",
+    "crumbs": [
+      "Home",
+      "Disease maps",
+      "Respiratory syncytial virus"
+    ]
+  },
+  {
+    "objectID": "rsv.html#rsv-notification-rate-2025",
+    "href": "rsv.html#rsv-notification-rate-2025",
+    "title": "Respiratory Syncytial Virus",
+    "section": "",
+    "text": "Use the mouse, trackpad, or map controls to zoom and pan. Hover over an LGA to view its notification count, population, and notification rate.\n\n\nLGAs shown in grey do not have an available notification rate.1",
+    "crumbs": [
+      "Home",
+      "Disease maps",
+      "Respiratory syncytial virus"
+    ]
+  },
+  {
+    "objectID": "rsv.html#footnotes",
+    "href": "rsv.html#footnotes",
+    "title": "Respiratory Syncytial Virus",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nNotification rates are presented per 100,000 population. Rates based on small notification counts should be interpreted with appropriate caution.↩︎",
+    "crumbs": [
+      "Home",
+      "Disease maps",
+      "Respiratory syncytial virus"
+    ]
+  },
+  {
+    "objectID": "disease-2.html",
+    "href": "disease-2.html",
+    "title": "Example Second Disease",
+    "section": "",
+    "text": "Use the mouse, trackpad, or map controls to zoom and pan. Hover over an LGA to view detailed information.\n\n\nLGAs shown in grey do not have an available notification rate.1",
+    "crumbs": [
+      "Home",
+      "Disease maps",
+      "Example second disease"
+    ]
+  },
+  {
+    "objectID": "disease-2.html#example-disease-notification-rate-2025",
+    "href": "disease-2.html#example-disease-notification-rate-2025",
+    "title": "Example Second Disease",
+    "section": "",
+    "text": "Use the mouse, trackpad, or map controls to zoom and pan. Hover over an LGA to view detailed information.\n\n\nLGAs shown in grey do not have an available notification rate.1",
+    "crumbs": [
+      "Home",
+      "Disease maps",
+      "Example second disease"
+    ]
+  },
+  {
+    "objectID": "disease-2.html#footnotes",
+    "href": "disease-2.html#footnotes",
+    "title": "Example Second Disease",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nNotification rates are presented per 100,000 population. Rates based on small notification counts should be interpreted with appropriate caution.↩︎",
+    "crumbs": [
+      "Home",
+      "Disease maps",
+      "Example second disease"
+    ]
+  }
+]
