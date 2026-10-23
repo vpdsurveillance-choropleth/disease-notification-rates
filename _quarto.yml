@@ -1,6 +1,12 @@
 project:
   type: website
   output-dir: docs
+
+  render:
+    - index.qmd
+    - rsv.qmd
+    - pertussis.qmd
+
   resources:
     - maps/**
 
@@ -12,8 +18,6 @@ website:
     left:
       - text: "Home"
         href: index.qmd
-      - text: "About"
-        href: about.qmd
 
   sidebar:
     style: docked
@@ -30,8 +34,8 @@ website:
           - text: "Respiratory syncytial virus"
             href: rsv.qmd
 
-          - text: "Example second disease"
-            href: disease-2.qmd
+          - text: "Pertussis"
+            href: pertussis.qmd
 
 format:
   html:
@@ -43,6 +47,6 @@ format:
     page-layout: full
     include-in-header:
       text: |
-        <meta name="robots" content="noindex, nofollow, noarchive"
+        <meta name="robots" content="noindex, nofollow, noarchive">
 
 editor: visual

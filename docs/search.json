@@ -9,23 +9,23 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "About",
+    "title": "Disease Notification Rates",
     "section": "",
-    "text": "This website presents interactive disease notification-rate maps by Australian local government area.\nThe maps allow users to zoom, pan, and inspect notification-rate information for individual LGAs."
+    "text": "This website presents interactive disease notification-rate maps by Australian local government area (LGA).\nSelect a disease from the panel on the left to open its interactive map. Where multiple years are available, use the year selector in the upper-right corner of the map to switch between them.\nUse the mouse, trackpad or map controls to zoom and pan. Hover over an LGA to view its notification rate and other available information."
   },
   {
     "objectID": "index.html#data-interpretation",
     "href": "index.html#data-interpretation",
-    "title": "About",
+    "title": "Disease Notification Rates",
     "section": "Data interpretation",
-    "text": "Data interpretation\nNotification rates are presented per 100,000 population. Rates based on small notification counts should be interpreted with appropriate caution.\nLGAs shown in grey do not have an available notification rate."
+    "text": "Data interpretation\n(Dummy text) Notification rates are presented per 100,000 population. Rates based on small notification counts should be interpreted with appropriate caution.\n(Dummy text) LGAs shaded grey do not have an available notification rate for the selected year."
   },
   {
     "objectID": "rsv.html",
     "href": "rsv.html",
     "title": "Respiratory Syncytial Virus",
     "section": "",
-    "text": "Use the mouse, trackpad, or map controls to zoom and pan. Hover over an LGA to view its notification count, population, and notification rate.\n\n\nLGAs shown in grey do not have an available notification rate.1",
+    "text": "Use the year selector in the upper-right corner of the map to switch between 2023, 2024 and 2025.\nUse the mouse, trackpad or map controls to zoom and pan. Hover over an LGA to view its notification count, population and notification rate.\n\n\nDummy footnote 1: Notification rates are presented per 100,000 population.\nDummy footnote 2:LGAs shaded grey do not have an available notification rate for the selected year.",
     "crumbs": [
       "Home",
       "Disease maps",
@@ -91,5 +91,48 @@
       "Disease maps",
       "Example second disease"
     ]
+  },
+  {
+    "objectID": "pertussis.html",
+    "href": "pertussis.html",
+    "title": "Pertussis",
+    "section": "",
+    "text": "Use the year selector in the upper-right corner of the map to switch between 2024 and 2025.\nUse the mouse, trackpad or map controls to zoom and pan. Hover over an LGA to view its notification count, population and notification rate.\n\n\nDummy footnote 1: Notification rates are presented per 100,000 population.\nDummy footnote 2: LGAs shaded grey do not have an available notification rate for the selected year.",
+    "crumbs": [
+      "Home",
+      "Disease maps",
+      "Pertussis"
+    ]
+  },
+  {
+    "objectID": "pertussis.html#pertussis-notification-rates-by-lga-and-year-of-diagnosis-20242025",
+    "href": "pertussis.html#pertussis-notification-rates-by-lga-and-year-of-diagnosis-20242025",
+    "title": "Pertussis",
+    "section": "",
+    "text": "Use the year selector in the upper-right corner of the map to switch between 2024 and 2025.\nUse the mouse, trackpad or map controls to zoom and pan. Hover over an LGA to view its notification count, population and notification rate.\n\n\nDummy footnote 1: Notification rates are presented per 100,000 population.\nDummy footnote 2: LGAs shaded grey do not have an available notification rate for the selected year.",
+    "crumbs": [
+      "Home",
+      "Disease maps",
+      "Pertussis"
+    ]
+  },
+  {
+    "objectID": "rsv.html#rsv-notification-rates-by-lga-and-year-of-diagnosis-20232025",
+    "href": "rsv.html#rsv-notification-rates-by-lga-and-year-of-diagnosis-20232025",
+    "title": "Respiratory Syncytial Virus",
+    "section": "",
+    "text": "Use the year selector in the upper-right corner of the map to switch between 2023, 2024 and 2025.\nUse the mouse, trackpad or map controls to zoom and pan. Hover over an LGA to view its notification count, population and notification rate.\n\n\nDummy footnote 1: Notification rates are presented per 100,000 population.\nDummy footnote 2:LGAs shaded grey do not have an available notification rate for the selected year.",
+    "crumbs": [
+      "Home",
+      "Disease maps",
+      "Respiratory syncytial virus"
+    ]
+  },
+  {
+    "objectID": "index.html#data-source",
+    "href": "index.html#data-source",
+    "title": "Disease Notification Rates",
+    "section": "Data source",
+    "text": "Data source\nDummy text"
   }
 ]
