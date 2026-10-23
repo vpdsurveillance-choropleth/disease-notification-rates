@@ -1,0 +1,17 @@
+---
+title: "About"
+toc: false
+---
+
+This website presents interactive disease notification-rate maps by Australian
+local government area.
+
+The maps allow users to zoom, pan, and inspect notification-rate information
+for individual LGAs.
+
+## Data interpretation
+
+Notification rates are presented per 100,000 population. Rates based on small
+notification counts should be interpreted with appropriate caution.
+
+LGAs shown in grey do not have an available notification rate.

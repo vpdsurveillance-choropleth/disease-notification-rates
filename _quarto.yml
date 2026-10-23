@@ -1,0 +1,45 @@
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - maps/**
+
+website:
+  title: "Disease Notification Rates"
+
+  navbar:
+    search: true
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "About"
+        href: about.qmd
+
+  sidebar:
+    style: docked
+    background: light
+    border: true
+    collapse-level: 1
+
+    header: |
+      ### Select a disease
+
+    contents:
+      - section: "Disease maps"
+        contents:
+          - text: "Respiratory syncytial virus"
+            href: rsv.qmd
+
+          - text: "Example second disease"
+            href: disease-2.qmd
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+    page-layout: full
+
+editor: visual

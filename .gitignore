@@ -1,0 +1,16 @@
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+/.quarto/
+/_site/
+renv/library/
+renv/staging/
+# Do not upload local input data
+/data/
+/spatial_data/
+# Do not publish R scripts containing internal paths
+/R/
+
+.DS_Store
