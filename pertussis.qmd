@@ -17,7 +17,7 @@ Use the year selector in the upper-right corner of the map to switch between
 2024 and 2025.
 
 Use the mouse, trackpad or map controls to zoom and pan. Hover over an LGA to
-view its notification-rate information.
+view its notification rate.
 
 <iframe
   src="maps/pertussis_024_LGA_map.html"
