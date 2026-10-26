@@ -3,16 +3,18 @@
 .RData
 .Ruserdata
 
+
 /.quarto/
 /_site/
 renv/library/
 renv/staging/
 
+
 # Do not upload local input data
 /data/
 /cleaned_shp_files/
-
 /spatial_data/
+
 # Do not publish R scripts containing internal paths
 /R/
 
