@@ -14,10 +14,9 @@ them.
 
 Interactive disease pages may include two views:
 
-- **Map:** zoom, pan and hover over an LGA to view its notification-rate
-  information.
+- **Map:** zoom, pan and hover over an LGA to view its notification rate.
   
-- **Data table:** search, sort and filter the published notification rates by
+- **Data table:** search, sort and filter the notification rates by
   LGA, state or territory, and year of diagnosis.
 
 
