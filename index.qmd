@@ -1,29 +1,36 @@
 ---
 title: "Disease Notification Rates"
-date: "23 October 2026"
+date: "26 October 2026"
 page-layout: full
 toc: false
 ---
 
-This website presents interactive disease notification-rate maps by Australian
-local government area (LGA).
+This website presents interactive disease notification-rate information by
+Australian local government area (LGA).
 
-Select a disease from the panel on the left to open its interactive map. Where
-multiple years are available, use the year selector in the upper-right corner
-of the map to switch between them.
+Select a disease from the panel on the left to open its disease-specific page.
+Where multiple years are available, use the year selector to switch between
+them.
 
-Use the mouse, trackpad or map controls to zoom and pan. Hover over an LGA to
-view its notification rate and other available information.
+Interactive disease pages may include two views:
+
+- **Map:** zoom, pan and hover over an LGA to view its notification-rate
+  information.
+  
+- **Data table:** search, sort and filter the published notification rates by
+  LGA, state or territory, and year of diagnosis.
+
 
 ## Data source
 
-Dummy text
+[Dummy text]
 
 
 ## Data interpretation
 
-(Dummy text) Notification rates are presented per 100,000 population. Rates based on small
+[Dummy text] Notification rates are presented per 100,000 population. Rates based on small
 notification counts should be interpreted with appropriate caution.
 
-(Dummy text) LGAs shaded grey do not have an available notification rate for the selected
-year.
+[Dummy text] LGAs shaded grey on a map do not have an available notification rate for the
+selected year.
+

@@ -1,3 +1,4 @@
+
 ---
 title: "Respiratory Syncytial Virus"
 page-layout: full
@@ -6,9 +7,18 @@ toc: false
 
 ## RSV notification rates by LGA and year of diagnosis, 2023–2025
 
-Use the year selector in the upper-right corner of the map to switch between 2023, 2024 and 2025.
+Use the tabs below to switch between the interactive map and the corresponding
+LGA data table.
 
-Use the mouse, trackpad or map controls to zoom and pan. Hover over an LGA to view its notification count, population and notification rate.
+::: {.panel-tabset}
+
+## Map
+
+Use the year selector in the upper-right corner of the map to switch between
+2023, 2024 and 2025.
+
+Use the mouse, trackpad or map controls to zoom and pan. Hover over an LGA to
+view its notification rate.
 
 <iframe
   src="maps/RSV_083_LGA_map.html"
@@ -21,6 +31,26 @@ Use the mouse, trackpad or map controls to zoom and pan. Hover over an LGA to vi
 </iframe>
 
 
+## Data table
+Use the selectors above the table to filter records by year of diagnosis and
+state or territory.
+
+You can also search by LGA name, LGA code, state or territory, and select a
+column heading to change the table's sort order.
+
+<iframe
+  src="tables/RSV_083_LGA_table.html"
+  title="Interactive table of RSV notification rates by LGA, state or territory, and year of diagnosis, 2023 to 2025"
+  width="100%"
+  height="780"
+  loading="lazy"
+  style="display: block; border: none; border-radius: 4px; background-color: #FFFFFF;">
+</iframe>
+
+:::
+
 *Dummy footnote 1: Notification rates are presented per 100,000 population.*
 
 *Dummy footnote 2:LGAs shaded grey do not have an available notification rate for the selected year.*
+
+
